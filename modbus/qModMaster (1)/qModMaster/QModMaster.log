@@ -1,0 +1,66 @@
+ERROR 2023-11-07T11:29:55.674 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : No error" 
+ERROR 2023-11-07T11:29:55.679 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : No error" 
+ WARN 2023-11-21T16:02:59.171 ..\..\qModMaster\src\mainwindow.cpp @ 179 TCP settings changes rejected  
+ERROR 2023-11-21T16:03:40.927 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:04:29.151 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:04:30.530 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid CRC" 
+ERROR 2023-11-21T16:04:33.561 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:04:47.211 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:07:54.699 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:08:50.565 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:08:59.550 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Timeout" 
+ERROR 2023-11-21T16:09:01.077 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Timeout" 
+ERROR 2023-11-21T16:09:02.639 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Timeout" 
+ERROR 2023-11-21T16:09:13.742 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ WARN 2023-11-21T16:09:38.043 ..\..\qModMaster\src\mainwindow.cpp @ 179 TCP settings changes rejected  
+ WARN 2023-11-21T16:09:43.610 ..\..\qModMaster\src\mainwindow.cpp @ 164 RTU settings changes rejected  
+ERROR 2023-11-21T16:09:53.916 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:10:41.321 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:11:15.713 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:11:17.230 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:11:18.039 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ WARN 2023-11-21T16:12:01.699 ..\..\qModMaster\src\mainwindow.cpp @ 164 RTU settings changes rejected  
+ERROR 2023-11-21T16:17:49.148 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : No error" 
+ERROR 2023-11-21T16:17:50.224 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : No error" 
+ERROR 2023-11-21T16:19:00.516 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : No error" 
+ERROR 2023-11-21T16:19:11.590 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:19:29.491 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:19:31.273 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:19:32.131 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:20:11.397 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:20:17.984 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:20:19.095 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:22:21.275 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:22:40.998 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:23:22.210 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ WARN 2023-11-21T16:23:29.180 ..\..\qModMaster\src\mainwindow.cpp @ 179 TCP settings changes rejected  
+ WARN 2023-11-21T16:23:37.731 ..\..\qModMaster\src\mainwindow.cpp @ 164 RTU settings changes rejected  
+ERROR 2023-11-21T16:23:52.177 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ERROR 2023-11-21T16:23:53.380 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ WARN 2023-11-21T16:24:10.351 ..\..\qModMaster\src\mainwindow.cpp @ 179 TCP settings changes rejected  
+ERROR 2023-11-21T16:24:19.790 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:24:21.190 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:24:25.808 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:24:26.599 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:24:26.821 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:24:27.148 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:27:57.235 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:27:58.652 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:28:02.061 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:28:24.527 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:28:54.114 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:28:55.784 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid data" 
+ERROR 2023-11-21T16:32:34.838 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Response not from requested slave" 
+ERROR 2023-11-21T16:32:54.941 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:34:01.944 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:34:12.860 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:40:53.243 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:41:04.804 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:41:05.828 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Illegal data address" 
+ERROR 2023-11-21T16:58:20.328 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ERROR 2023-11-21T16:58:25.493 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ WARN 2023-11-21T16:58:31.651 ..\..\qModMaster\src\mainwindow.cpp @ 179 TCP settings changes rejected  
+ERROR 2023-11-21T16:58:50.116 ..\..\qModMaster\src\modbusadapter.cpp @ 291 Read Data failed.  "Error : Invalid CRC" 
+ERROR 2023-12-03T17:25:59.496 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ERROR 2023-12-03T17:26:01.951 ..\..\qModMaster\src\modbusadapter.cpp @ 75 Connection failed. Could not connect to serial port 
+ WARN 2023-12-03T17:26:08.491 ..\..\qModMaster\src\mainwindow.cpp @ 164 RTU settings changes rejected  
